@@ -54,7 +54,7 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/H4BHJr?referralCode=RbnkNK)
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Raizel-2023/PRABATH_MD)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Raizel-2023/PRABATH_MD)
 
   
 
