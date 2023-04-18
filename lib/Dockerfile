@@ -1,5 +1,5 @@
 FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/prabathLK/PRABATH_MD /root/prabathLK
+RUN git clone https://github.com/Raizel-2023/RAIZEL_MD1 /root/prabathLK
 WORKDIR /root/prabathLK/
 RUN npm install npm@latest
 RUN yarn install --network-concurrency 1
